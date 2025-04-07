@@ -1,0 +1,15 @@
+{
+    "name": "emirh/ziekenhuis",
+    "autoload": {
+        "psr-4": {
+            "Emirh\\Ziekenhuis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EmirhanK010",
+            "email": "9021587@student.zadkine.nl"
+        }
+    ],
+    "require": {}
+}
